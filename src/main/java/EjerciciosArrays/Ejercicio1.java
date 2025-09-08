@@ -1,3 +1,5 @@
+package EjerciciosArrays;
+
 public class Ejercicio1 {
 
     int[] numeros = new int[10];
